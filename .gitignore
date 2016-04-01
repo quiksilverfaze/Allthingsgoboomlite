@@ -1,0 +1,16 @@
+Library
+Temp
+obj
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.suo
+Assets/Resources/version.txt
+Assets/Resources/version.txt.meta
+Thumbs.db
+Thumbs.db.meta
+/Build
+Assets/UnityVS
+Assets/UnityVS.meta
